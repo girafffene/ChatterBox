@@ -1,0 +1,9 @@
+{
+  "db": {
+    "host": "localhost",
+    "user": "newuser",
+    "password": "",
+    "database": "users"
+  },
+  "secret": "gLe$@?z3y2@J7=!TE_d4UQ3neP$M+29=*Q*3=Vga+G#Q#haq47PhUk%38_fYHWuJjmJJ4"
+}

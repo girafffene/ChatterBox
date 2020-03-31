@@ -1,0 +1,5 @@
+export const ADD_MESSAGE = "chat/ADD_MESSAGE"
+export const LIST_ROOMS = "chat/LIST_ROOMS"
+export const CHANGE_ROOM = "chat/CHANGE_ROOM"
+export const ROOM_UPDATE = "chat/ROOM_UPDATE"
+export const GET_ROOMS = "chat/GET_ROOMS"
